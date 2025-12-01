@@ -23,6 +23,15 @@
             ]
           },
           {
+            "group": "Configurator",
+            "pages": [
+              "configurator/bedding",
+              "configurator/tabletop",
+              "configurator/bath",
+              "configurator/tabletop"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
