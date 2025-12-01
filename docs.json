@@ -16,9 +16,10 @@
           {
             "group": "Getting started",
             "pages": [
+              "configurator",
               "index",
               "quickstart",
-              "development"
+              "development"   
             ]
           },
           {
